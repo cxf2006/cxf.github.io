@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-74563949","path":"/protocol/zigbee/%E6%A6%82%E5%BF%B5.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"protocol/zigbee/概念.md"}');export{t as data};

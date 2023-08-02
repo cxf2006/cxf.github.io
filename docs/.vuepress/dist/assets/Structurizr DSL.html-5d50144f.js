@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ec8ee064","path":"/components/C4/Structurizr/Structurizr%20DSL.html","title":"编写工具","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"components/C4/Structurizr/Structurizr DSL.md"}');export{t as data};

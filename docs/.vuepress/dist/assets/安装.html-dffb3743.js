@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-9b56e836","path":"/components/influxdb/%E5%AE%89%E8%A3%85.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"components/influxdb/安装.md"}');export{t as data};

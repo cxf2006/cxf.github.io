@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ab258b6a","path":"/components/C4/Structurizr/Structurizr%20CLI.html","title":"本地安装","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"components/C4/Structurizr/Structurizr CLI.md"}');export{t as data};

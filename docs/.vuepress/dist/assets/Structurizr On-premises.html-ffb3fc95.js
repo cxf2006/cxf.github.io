@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-50cfaabb","path":"/components/C4/Structurizr/Structurizr%20On-premises.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"components/C4/Structurizr/Structurizr On-premises.md"}');export{t as data};
