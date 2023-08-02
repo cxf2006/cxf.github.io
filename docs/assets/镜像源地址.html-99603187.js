@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3be50f97","path":"/linux/%E9%95%9C%E5%83%8F%E6%BA%90%E5%9C%B0%E5%9D%80.html","title":"ubuntu镜像源","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1690962209000,"contributors":[{"name":"cxf2006","email":"38304372+cxf2006@users.noreply.github.com","commits":1}]},"filePathRelative":"linux/镜像源地址.md"}');export{t as data};
