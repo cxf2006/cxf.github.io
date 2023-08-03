@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-798c7a24","path":"/components/influxdb/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E5%8F%82%E6%95%B0.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"components/influxdb/配置文件参数.md"}');export{t as data};

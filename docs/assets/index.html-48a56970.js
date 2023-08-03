@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-40ebfcfe","path":"/components/C4/Structurizr/","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"components/C4/Structurizr/README.md"}');export{t as data};
