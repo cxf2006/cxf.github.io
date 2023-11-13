@@ -1,1 +1,0 @@
-import{_ as e,o as _,c as t,a as o}from"./app-42f4feee.js";const s={},c=o("p",null,"https://docs.pmd-code.org/latest/pmd_release_notes_old.html",-1),l=[c];function n(a,r){return _(),t("div",null,l)}const m=e(s,[["render",n],["__file","6旧版发布说明.html.vue"]]);export{m as default};
