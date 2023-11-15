@@ -1,0 +1,1 @@
+import{_ as t,o,c as _,a as e}from"./app-26820943.js";const c={},n=e("p",null,"api文档",-1),s=e("p",null,"https://developers.weixin.qq.com/miniprogram/dev/api/network/udp/UDPSocket.html",-1),r=[n,s];function a(l,i){return o(),_("div",null,r)}const d=t(c,[["render",a],["__file","udp通讯.html.vue"]]);export{d as default};

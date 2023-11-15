@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as _,a as o}from"./app-1acd32cf.js";const s={},c=o("p",null,"https://docs.pmd-code.org/latest/pmd_rules_apex.html",-1),a=[c];function l(n,r){return t(),_("div",null,a)}const m=e(s,[["render",l],["__file","1索引.html.vue"]]);export{m as default};

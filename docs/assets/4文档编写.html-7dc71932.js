@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as _,a as o}from"./app-26820943.js";const c={},s=o("p",null,"https://docs.pmd-code.org/latest/pmd_devdocs_writing_documentation.html",-1),n=[s];function a(d,r){return t(),_("div",null,n)}const i=e(c,[["render",a],["__file","4文档编写.html.vue"]]);export{i as default};

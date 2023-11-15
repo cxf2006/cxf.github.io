@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as o,a as c}from"./app-1acd32cf.js";const s={},_=c("p",null,"https://docs.pmd-code.org/latest/pmd_projectdocs_decisions.html",-1),n=[_];function r(a,d){return t(),o("div",null,n)}const i=e(s,[["render",r],["__file","7决议.html.vue"]]);export{i as default};
