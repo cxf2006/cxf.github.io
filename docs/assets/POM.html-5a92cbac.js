@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as c}from"./app-26a5a8f2.js";const s={},_=c("p",null,"https://maven.apache.org/pom.html",-1),a=[_];function n(r,l){return t(),o("div",null,a)}const h=e(s,[["render",n],["__file","POM.html.vue"]]);export{h as default};

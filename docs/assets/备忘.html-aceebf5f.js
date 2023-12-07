@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as _,a as o}from"./app-26820943.js";const s={},c=o("p",null,"./influx v1 dbrp list --org rexense",-1),n=[c];function r(l,a){return t(),_("div",null,n)}const d=e(s,[["render",r],["__file","备忘.html.vue"]]);export{d as default};

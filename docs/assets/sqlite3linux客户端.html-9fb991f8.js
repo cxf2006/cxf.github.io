@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as _,a as e}from"./app-26a5a8f2.js";const c={},l=e("p",null,"slqite3 /usr/device.db0",-1),o=e("p",null,"select * from DeviceBase;",-1),n=[l,o];function i(r,a){return s(),_("div",null,n)}const u=t(c,[["render",i],["__file","sqlite3linux客户端.html.vue"]]);export{u as default};
