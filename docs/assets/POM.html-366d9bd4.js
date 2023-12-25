@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-43fb920e","path":"/build-tool/maven/POM.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"build-tool/maven/POM.md"}');export{t as data};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as _,a as s}from"./app-b63b8632.js";const c={},o=s("p",null,"https://docs.pmd-code.org/latest/pmd_rules_scala.html",-1),a=[o];function l(n,r){return t(),_("div",null,a)}const m=e(c,[["render",l],["__file","1索引.html.vue"]]);export{m as default};
