@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as c}from"./app-d417e0ec.js";const s={},_=c("p",null,"https://docs.pmd-code.org/latest/pmd_projectdocs_faq.html",-1),a=[_];function n(r,l){return t(),o("div",null,a)}const m=e(s,[["render",n],["__file","3FAQ.html.vue"]]);export{m as default};

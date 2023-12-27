@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as _,a as o}from"./app-b63b8632.js";const c={},s=o("p",null,"https://github.com/pmd/pmd/blob/master/CONTRIBUTING.md",-1),n=[s];function a(r,l){return t(),_("div",null,n)}const d=e(c,[["render",a],["__file","3捐助.html.vue"]]);export{d as default};

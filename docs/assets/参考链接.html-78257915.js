@@ -1,1 +1,0 @@
-import{_ as e,o,c as s,a as t}from"./app-b63b8632.js";const _={},c=t("p",null,"官方网站：https://pmd.github.io/",-1),n=t("p",null,"代码仓库：https://github.com/pmd/pmd",-1),l=t("p",null,"文档地址：https://docs.pmd-code.org/latest/",-1),d=[c,n,l];function p(a,r){return o(),s("div",null,d)}const i=e(_,[["render",p],["__file","参考链接.html.vue"]]);export{i as default};

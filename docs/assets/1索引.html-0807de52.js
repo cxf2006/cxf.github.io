@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as _,a as c}from"./app-b63b8632.js";const s={},o=c("p",null,"https://docs.pmd-code.org/latest/pmd_rules_ecmascript.html",-1),r=[o];function a(l,n){return t(),_("div",null,r)}const m=e(s,[["render",a],["__file","1索引.html.vue"]]);export{m as default};

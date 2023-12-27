@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as _,a as o}from"./app-d417e0ec.js";const c={},s=o("p",null,"https://docs.pmd-code.org/latest/pmd_rules_modelica.html",-1),l=[s];function a(n,r){return t(),_("div",null,l)}const m=e(c,[["render",a],["__file","1索引.html.vue"]]);export{m as default};
